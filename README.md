@@ -2,8 +2,8 @@
 
 Este repositorio contiene el dashboard interactivo desarrollado como parte del caso práctico **Easy Loans**, cuyo objetivo es analizar las operaciones de préstamos realizadas durante el año 2023 y ofrecer insights relevantes para la toma de decisiones estratégicas.
 
-Puedes visualizar el dashboard directamente aquí:  
-👉 **[Ver en Tableau Public]([[https://public.tableau.com/shared/F6YPDRQ9W?:display_count=n&:origin=viz_share_link])**
+Puedes visualizar el dashboard directamente aquí:  *https://public.tableau.com/views/AneAcha/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link*
+👉 **[Ver en Tableau Public]**
 
 ---
 
